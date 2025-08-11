@@ -1,4 +1,4 @@
-# cd aula-4
+# cd dados-alura\aula-4
 # streamlit run app.py
 
 import streamlit as st
